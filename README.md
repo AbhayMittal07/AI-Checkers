@@ -30,5 +30,6 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/CheckerSquad/AI-Checkers-Master.git
-   cd AI-Checkers-Master
+   git clone https://github.com/AbhayMittal07/AI-Checkers.git
+   cd checkers
+   
